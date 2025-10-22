@@ -1,2 +1,3 @@
 # Huzaifa-yousaf-portfolio-website
 Huzaifa Yousaf | Creative Developer  A passionate developer and designer focused on building clean, user-friendly, and functional websites and applications. I bridge the gap between design and technology to create engaging digital experiences.
+Hi, I'm Huzaifa Yousaf, a detail-oriented software developer with a passion for building efficient and scalable web applications. I thrive on solving complex problems with clean, maintainable code. My expertise lies in the MERN stack (MongoDB, Express.js, React, Node.js), and I am constantly exploring new technologies to enhance my craft. Browse my portfolio to see my projects, and feel free to get in touch to discuss how we can work together.
